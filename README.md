@@ -161,12 +161,3 @@ An interactive Power BI dashboard (`customer_behavior_dashboard.pbix`) providing
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, feel free to open an issue or reach out via GitHub.
-
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
